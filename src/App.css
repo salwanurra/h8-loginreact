@@ -1,0 +1,24 @@
+.container {
+  padding: 30px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn {
+  width: 100%;
+  border-radius: 10px !important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 700;
+}
